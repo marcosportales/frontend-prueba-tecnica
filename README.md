@@ -7,3 +7,5 @@ Crear una sección (a la derecha de la tabla) que contenga: Edad promedio de las
 
 Para tamaños de pantallas menores de 600px de ancho ocultar las columnas apellidos y edad en la tabla.
 Consumir el api https://api.nationalize.io/?name= y mostrar la nacionalidad de mayor probabilidad del usuario.
+
+Use una API externa para determinar el nombre de un pais basado en su codigo
